@@ -33,6 +33,7 @@ Continued to practice writing classes, methods and inheritance via the extends o
   Joined GitHub and worked through the "Introduction to GitHub" course. Continued to practice writing classes and adding methods. 
   - **Lab 7**<br/>
   Used GitHub to create an organization for the CIT minor. Created repository on GitHub and cloned repo to the local system. Created a JavaScript file to practice error handling and using GitHub to push changes to the file to GitHub. 
+
 **7. Project 7**<br/>
 Practiced using GitHub Pages to create a portfolio for the CIT Minor. 
   - **Lab 8**<br/>
