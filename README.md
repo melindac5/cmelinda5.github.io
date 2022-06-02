@@ -1,3 +1,31 @@
+![Hazy mountain](https://images.unsplash.com/photo-1653917189526-71eebe91564f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+## CIT 281
+
+**1. Project 1**
+  - **Lab 1**
+
+**2. Project 2**
+  - **Lab 2**
+
+**3. Project 3**
+  - **Lab 3**
+  - **Lab 4**
+
+**4. Project 4**
+  - **Lab 5**
+
+**5. Project 5**
+
+**6. Project 6**
+  - **Lab 6**
+  - **Lab 7**
+
+**7. Project 7**
+  - **Lab 8**
+  - **Lab 9**
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cmelinda5/cmelinda5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
