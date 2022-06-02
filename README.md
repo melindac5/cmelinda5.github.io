@@ -17,7 +17,7 @@ Practiced using git via operating system's CLI and VSCode. Practiced writing fun
   - **Lab 3**<br/>
   Practiced refactoring functions, object destructuring, rewriting normal functions to arrow functions, and for..of and for..in syntax. Also continued to practice writing Node.js code modules using module.exports and importing modules using require. 
   - **Lab 4**<br/>
-  Continued to practice adding Fastify and initializing a project folder as Node.js project. Continued to practice using git. Fixed MIME error and test via web server. Practiced writing and executing Node.js server code.
+  Continued to practice adding Fastify and initializing a project folder as Node.js project. Continued to practice using git. Fixed MIME error and tested via web server. Practiced writing and executing Node.js server code.
 
 **4. Project 4**<br/>
 Continued to practice writing Node.js JavaScript code and writing and executing Node.JS REST API server. Continued practicing writing and using code modules. Learned to use Postman to test web server. Continued to practice using Fastify with the GET verb, using route parameters and adding routes. 
@@ -32,10 +32,10 @@ Continued to practice writing classes, methods and inheritance via the extends o
   - **Lab 6**<br/>
   Joined GitHub and worked through the "Introduction to GitHub" course. Continued to practice writing classes and adding methods. 
   - **Lab 7**<br/>
-  Used GitHub to create an organization for the CIT minor. Created repository on GitHub and cloned repo to local system. Created a JavaScript file to practice error handling and using GitHub to push changes to the file to GitHub. 
+  Used GitHub to create an organization for the CIT minor. Created repository on GitHub and cloned repo to the local system. Created a JavaScript file to practice error handling and using GitHub to push changes to the file to GitHub. 
 **7. Project 7**<br/>
 Practiced using GitHub Pages to create a portfolio for the CIT Minor. 
   - **Lab 8**<br/>
-  - Practiced using node-fetch and adding Fastify code to handle returned Promise. 
+  Practiced using node-fetch and adding Fastify code to handle returned Promise. 
   - **Lab 9**<br/>
-  - Practiced using GitHub and worked through the "Create a release based workflow" course. 
+  Practiced using GitHub and worked through the "Create a release based workflow" course. 
