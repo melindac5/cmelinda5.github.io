@@ -21,7 +21,7 @@ Practiced using git via operating system's CLI and VSCode. Practiced writing fun
 
 [**4. Project 4**<br/>](https://cmelinda5.github.io/cit281-p4/)
 Continued to practice writing Node.js JavaScript code and writing and executing Node.JS REST API server. Continued practicing writing and using code modules. Learned to use Postman to test web server. Continued to practice using Fastify with the GET verb, using route parameters and adding routes. 
-  - [**Lab 5**<br/>]((https://cmelinda5.github.io/cit281-lab5/)
+  - [**Lab 5**<br/>](https://cmelinda5.github.io/cit281-lab5/)
   Downloaded Postman and created a new CIT collection with appropriate folders. Created Node.js and Fastify server with GET routes and response in JSON. Practiced adding POST route using JSON request body. Continued to use Postman to test routes. 
 
 [**5. Project 5**<br/>](https://cmelinda5.github.io/cit281-p5/)
